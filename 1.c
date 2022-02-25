@@ -1,4 +1,4 @@
 include<studio.h>
 int main(){
-	printf("hello luo");
+	printf("hello luo2");
 }
